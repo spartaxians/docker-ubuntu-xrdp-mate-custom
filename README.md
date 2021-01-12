@@ -46,7 +46,7 @@ Contents:
 - Epiphany web browser (ubuntu repo)
 - Custom xrdp.ini script
 - Default UK Keyboard layout (Can be changed)
-- Default UK Timezone (Can be changed)
+- Default UK Timezone (Can be changed by changing timezones)
 - You are now able to set the time zone with the TZ variable
 - Ability to run a script on container startup. This is useful for installing packages that are needed.
 - Local Drive mapping (require elevated rights with this parameter ```--privileged=true```)
